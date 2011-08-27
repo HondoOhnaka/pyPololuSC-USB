@@ -1,7 +1,7 @@
 Control the pololu USB servo controller 16 on Mac (or Linux, or Win (may require add'l work))   
 <http://www.pololu.com/catalog/product/390>
 
-<https://github.com/jimfmunro/pyPololuSC-USB/raw/master/img/pyPololuSC-USB.jpg>
+!(pololu USB servo controller 16)[https://github.com/jimfmunro/pyPololuSC-USB/raw/master/img/pyPololuSC-USB.jpg]
 
 basic code via *pyusb* site   
 <http://sourceforge.net/projects/pyusb/>   
