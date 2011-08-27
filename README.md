@@ -2,11 +2,13 @@ Control the pololu USB servo controller 16 on Mac (or Linux, or Win (may require
 <http://www.pololu.com/catalog/product/390>
 
 
-basic code via pyusb site   
+basic code via *pyusb* site   
 <http://sourceforge.net/projects/pyusb/>   
 <http://pyusb.sourceforge.net/docs/1.0/tutorial.html>
 
+with some additional help from _USB in a Nutshell_
+<http://www.beyondlogic.org/usbnutshell/usb1.shtml>
 
-Based on my previous work using pySerial, but updated for pyusb   
+Based on my previous work using pySerial (linux), but updated for pyusb (mac, etc.) 
 posted original code sample here:   
 <http://forum.pololu.com/viewtopic.php?f=16&t=535&start=0&st=0&sk=t&sd=a>
